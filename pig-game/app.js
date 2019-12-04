@@ -11,7 +11,7 @@ GAME RULES:
 Changes made:
 
 - added another dice and player will loose his current score when any of them is 1.
-- A player loose his entire score if he rolls two six in a row. After that, it's the next player turn.
+- A player loose his entire score if he rolls two six in a row. After that, it's the next player turn. (not in use)
 
 */
 
